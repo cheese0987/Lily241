@@ -7,7 +7,7 @@
 - 🧭 My curated learning path https://roadmap.sh/ai?id=65ef4625c38ff425a3b11b52
 - 💼 I’m looking for roles in Data Analyst/Data Science/Machine Learning
 
-- 📫 How to reach me: .... <!--or connect with me on LinkedIn (https://www.linkedin.com/in/michela-tjan-sakti-effendie/)-->
+- 📫 Connect with me on: .... <!--or connect with me on LinkedIn (https://www.linkedin.com/in/michela-tjan-sakti-effendie/)-->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In my free time, I enjoy playing the piano, doing sports and debating
 
