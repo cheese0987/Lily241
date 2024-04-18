@@ -9,5 +9,5 @@
 
 - 📫 How to reach me: lvle@ualberta.ca <!--or connect with me on LinkedIn (https://www.linkedin.com/in/michela-tjan-sakti-effendie/)-->
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In my free time, I enjoy playing the piano, watching sports, movies and debates 
+- ⚡ Fun fact: In my free time, I enjoy playing the piano, watching sports, movies and debating
 
