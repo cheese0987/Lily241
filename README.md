@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lily</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+data+analyst+sculpting+solutions+with creativity+and+code)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+sculping+solutions+with+creativity+and+code)](https://git.io/typing-svg)
+
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
