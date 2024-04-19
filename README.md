@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lily</h1>
+<h1 align="center">Hi, I'm Lily</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&lines=A+software+engineer+sculping+solutions+with+creativity+and+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&lines=A+data+analyst+sculping+solutions+with+creativity)](https://git.io/typing-svg)
 
 
 
@@ -71,9 +71,13 @@
 
 [name](filename 'h-fares.md')
 
-</details>
+<!-- Copy-paste in your Readme.md file -->
 
- ------
-Credit: [h-fares](https://github.com/h-fares)
+<a href="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=dark" width="561" height="auto">
+    <img alt="Which Repositories Are Actively Engaged in Issue Discussions?" src="https://next.ossinsight.io/widgets/official/analyze-org-activity-action-top-repos/thumbnail.png?owner_id=11855343&activity=issues%2Fissue-comments&period=past_28_days&image_size=3x6&color_scheme=light" width="561" height="auto">
+  </picture>
+</a>
 
-Last Edited on: 01/05/2022
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
