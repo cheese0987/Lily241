@@ -4,7 +4,7 @@
 
 
 
-<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9zYjk3bThnNDVmNjl2cTEweW93ZXlvaDNjbnUxcG1obGl4aDM1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQHtASL5mC8cKPyfSU/giphy-downsized-large.gif" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFxZHM5M202dnc1ZzFjanp2bmhnM2FhMGFuZHFsMjRsamhleHh0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width=100% height="300px" align="center"/>
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/tQHtASL5mC8cKPyfSU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/landscape-nft-connect-tQHtASL5mC8cKPyfSU">via GIPHY</a></p>
 
