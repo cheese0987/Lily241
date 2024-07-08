@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Linh</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&lines=A+data+analyst+sculping+solutions+with+valuable+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&lines=A+web+developer+sculping+solutions+with+valuable+insights)](https://git.io/typing-svg)
 
 
 
